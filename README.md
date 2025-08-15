@@ -7,7 +7,7 @@ Hello to anyone who is reading this! welcome to my github. I am an aspiring deve
 <!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
-  <a href="www.linkedin.com/in/edwin-metcalf-78427b29a">
+  <a href="https://www.linkedin.com/in/edwin-metcalf-78427b29a">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=person-add&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:winmetcalf1@gmail.com">
