@@ -3,7 +3,7 @@
 <p align="center">Software | Games | CS & History </p>
 <hr>
 
-Hello to anyone who is reading this! welcome to my github. I am an aspiring developer in my last year at Vassar College where I plan to be a double major in Computer science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
+Hello to anyone who is reading this! I am an aspiring developer in my last year at Vassar College where I plan to be a double major in Computer Science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
 <!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
