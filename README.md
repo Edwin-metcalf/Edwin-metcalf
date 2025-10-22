@@ -3,10 +3,13 @@
 <p align="center">Software | Games | CS & History </p>
 <hr>
 
-Hello to anyone who is reading this! I am an aspiring developer in my last year at Vassar College where I plan to be a double major in Computer Science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
+Hello, I am an aspiring full stack developer in my last year at Vassar College where I plan to be a double major in Computer Science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
 <!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
+  <a href="edwinmetcalf.com">
+      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio_Website-purple?style=for-the-badge&logo=link&logoColor=white" alt="My Portflio Website badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/edwin-metcalf-78427b29a">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=person-add&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -29,6 +32,9 @@ Hello to anyone who is reading this! I am an aspiring developer in my last year 
   <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg">
+  <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+
   <br clear="left"/>
 </p>
 
