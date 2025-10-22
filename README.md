@@ -7,7 +7,7 @@ Hello, I am an aspiring full stack developer in my last year at Vassar College w
 <!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
-  <a href="edwinmetcalf.com">
+  <a href="https://www.edwinmetcalf.com/">
       <img src="https://custom-icon-badges.demolab.com/badge/Portfolio_Website-purple?style=for-the-badge&logo=link&logoColor=white" alt="My Portflio Website badge"/>
   </a>
   <a href="https://www.linkedin.com/in/edwin-metcalf-78427b29a">
