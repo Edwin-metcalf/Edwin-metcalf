@@ -38,16 +38,17 @@ Hello, I am an aspiring full stack developer in my last year at Vassar College w
   <br clear="left"/>
 </p>
 
-
+<!-- 
+these are currently down
 <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+   <!-- https://github.com/anuraghazra/github-readme-stats -- >
 
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Edwin-metcalf&show_icons=true&theme=radical&count_private=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-metcalf&layout=compact&theme=radical" />
 </p>
-
+-->
 
 <h3>🧙‍♂️LeetCode stats</h3>
 
