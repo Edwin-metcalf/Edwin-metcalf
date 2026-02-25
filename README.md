@@ -1,9 +1,11 @@
 <h1 align="center">Edwin Metcalf</h1>
 
-<p align="center">Software | Games | CS & History </p>
+<p align="center">
+  Software | Games | CS & History | <a href="https://edwinmetcalf.com">edwinmetcalf.com </a>
+</p>
 <hr>
 
-Hello, I am an aspiring full stack developer in my last year at Vassar College where I plan to be a double major in Computer Science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
+Hello, I am a full stack developer in my last year at Vassar College where I plan to be a double major in Computer Science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
 <!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
