@@ -4,8 +4,10 @@
   Software | Games | CS & History | <a href="https://edwinmetcalf.com">edwinmetcalf.com </a>
 </p>
 <hr>
-
-Hello, I am a full stack developer in my last year at Vassar College where I plan to be a double major in Computer Science and History. On the side I am constantly playing video games and trying to make my own. I also love sports and am playing lacrosse in college. I am always looking to learn new things to become a better software developer.
+<p align ="center">
+Hello, I am a software engineer with a background in systems programming, networking, security, and full-stack development.
+I recently graduated from Vassar College as a double major in Computer science and History. I also completed additional course work at UC Berkeley. I am always looking to learn new things and become a better software engineer. I am also interested in video games, sports and the outdoors.
+</p>
 <!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
@@ -18,6 +20,21 @@ Hello, I am a full stack developer in my last year at Vassar College where I pla
   <a href="mailto:winmetcalf1@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
+
+## Featured Projects
+
+### Compiler
+Built a compiler that performs parsing, type checking, optimization, and generates RISC-V assembly.
+
+### Secure File Sharing Software
+Implemented encrypted file storage and sharing using AES-CTR, RSA signatures, HMACs, and key derivation.
+
+### BitTorrent Client
+Created a peer-to-peer file sharing client in C using UDP sockets, concurrency, and sliding-window reliability.
+
+### Personal Website
+Built and deployed a full-stack portfolio using Svelte, TypeScript, Go, PostgreSQL, and Heroku.
+
 
 ### 🧰 Languages and Tools
 <p align="center">
@@ -52,9 +69,10 @@ these are currently down
 </p>
 -->
 
+<!-- gonna test with these down for a little while
 <h3>🧙‍♂️LeetCode stats</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/winmet?theme=nord&font=Roboto&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/winmet?theme=nord&font=Roboto&ext=activity) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edwin-metcalf&color=blue)
 
