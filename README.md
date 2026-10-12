@@ -1,14 +1,17 @@
-<h1 align="center">Edwin Metcalf</h1>
+<p align="center">
+  <img src="assets/header.svg" alt="Edwin Metcalf — Software | Games | CS & History" width="100%"/>
+</p>
 
 <p align="center">
-  Software | Games | CS & History | <a href="https://edwinmetcalf.com">edwinmetcalf.com </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Software+Engineer;Systems+Programming;Games+%C2%B7+Outdoors+%C2%B7+History;CS+%26+History+%40+Vassar+College" alt="Typing intro: Software Engineer, Systems Programming, Games · Outdoors · History, CS & History @ Vassar College"/>
 </p>
+
 <hr>
-<p align ="center">
-Hello, I am a software engineer with a background in systems programming, networking, security, and full-stack development.
-I recently graduated from Vassar College as a double major in Computer science and History. I also completed additional course work at UC Berkeley. I am always looking to learn new things and become a better software engineer. I am also interested in video games, sports and the outdoors.
+
+<p align="center">
+  Hello, I am a software engineer with a background in systems programming, networking, security, and full-stack development.
+  I recently graduated from Vassar College as a double major in Computer Science and History. I also completed additional course work at UC Berkeley. I am always looking to learn new things and become a better software engineer. I am also interested in video games, sports and the outdoors.
 </p>
-<!-- add a current projects and then add a link to your profile website when it is done -->
 
 <p align="center">
   <a href="https://www.edwinmetcalf.com/">
@@ -20,8 +23,12 @@ I recently graduated from Vassar College as a double major in Computer science a
   <a href="mailto:winmetcalf1@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
+</p>
 
 ## Featured Projects
+
+### [Personal Website](https://www.edwinmetcalf.com/)
+My live portfolio and home base on the web — built and deployed with Svelte, TypeScript, Go, PostgreSQL, and Heroku.
 
 ### Compiler
 Built a compiler that performs parsing, type checking, optimization, and generates RISC-V assembly.
@@ -31,10 +38,6 @@ Implemented encrypted file storage and sharing using AES-CTR, RSA signatures, HM
 
 ### BitTorrent Client
 Created a peer-to-peer file sharing client in C using UDP sockets, concurrency, and sliding-window reliability.
-
-### Personal Website
-Built and deployed a full-stack portfolio using Svelte, TypeScript, Go, PostgreSQL, and Heroku.
-
 
 ### 🧰 Languages and Tools
 <p align="center">
@@ -57,24 +60,11 @@ Built and deployed a full-stack portfolio using Svelte, TypeScript, Go, PostgreS
   <br clear="left"/>
 </p>
 
-<!-- 
-these are currently down
-<h3>💻 GitHub Profile Stats</h3>
-
-   <!-- https://github.com/anuraghazra/github-readme-stats -- >
-
+### 💻 GitHub Stats
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Edwin-metcalf&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-metcalf&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin-metcalf&show_icons=true&count_private=true&theme=transparent&title_color=22C55E&icon_color=4ADE80&text_color=9CA3AF&hide_border=true" alt="Edwin-Metcalf's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-metcalf&layout=compact&theme=transparent&title_color=22C55E&icon_color=4ADE80&text_color=9CA3AF&hide_border=true" alt="Top Languages"/>
 </p>
--->
-
-<!-- gonna test with these down for a little while
-<h3>🧙‍♂️LeetCode stats</h3>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/winmet?theme=nord&font=Roboto&ext=activity) -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=Edwin-metcalf&color=blue)
 
 ### 🐍 Contribution Snake
 
@@ -85,23 +75,6 @@ these are currently down
   <img alt="github contribution grid snake animation" src="assets/snake.svg" />
 </picture>
 
-<!-- stuff to add later maybe the streak and then the trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edwin-metcalf&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Edwin-metcalf&theme=radical&hide_border=true)](https://git.io/streak-stats)
-=
--->
-<!--
-**Edwin-metcalf/Edwin-metcalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Edwin-metcalf&color=blue" alt="Profile views"/>
+</p>

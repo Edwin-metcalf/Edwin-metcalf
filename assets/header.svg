@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-label="Edwin Metcalf — Software | Games | CS &amp; History">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b2a1a"/>
+      <stop offset="55%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#1a6b3c"/>
+    </linearGradient>
+    <linearGradient id="mtnBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b2a1a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0b2a1a" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="mtnFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#071f12" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#071f12" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+
+  <!-- soft glow accents -->
+  <circle cx="880" cy="60" r="130" fill="#4ade80" opacity="0.08"/>
+  <circle cx="120" cy="240" r="170" fill="#22c55e" opacity="0.06"/>
+
+  <!-- back mountain range -->
+  <path d="M0 260 L0 175 L55 120 L110 175 L170 90 L235 175 L300 130 L360 185 L420 105 L485 185 L550 140 L615 190 L680 110 L745 185 L810 145 L875 195 L940 150 L1000 190 L1000 260 Z" fill="url(#mtnBack)"/>
+
+  <!-- front ridge -->
+  <path d="M0 260 L0 205 L70 150 L135 205 L205 130 L275 210 L345 160 L415 215 L485 145 L555 210 L625 165 L695 220 L765 170 L835 225 L905 185 L1000 215 L1000 260 Z" fill="url(#mtnFront)"/>
+
+  <!-- moon -->
+  <circle cx="875" cy="60" r="22" fill="#f0fdf4"/>
+  <circle cx="866" cy="53" r="18" fill="#f0fdf4" opacity="0.25"/>
+
+  <!-- name -->
+  <text x="60" y="112" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="60" font-weight="700" fill="#f0fdf4" letter-spacing="1">Edwin Metcalf</text>
+  <line x1="62" y1="130" x2="430" y2="130" stroke="#4ade80" stroke-width="4" stroke-linecap="round"/>
+  <text x="60" y="168" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="25" font-weight="400" fill="#bbf7d0" letter-spacing="3">SOFTWARE &nbsp;·&nbsp; GAMES &nbsp;·&nbsp; CS &amp; HISTORY</text>
+</svg>
