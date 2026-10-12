@@ -76,6 +76,15 @@ these are currently down
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edwin-metcalf&color=blue)
 
+### 🐍 Contribution Snake
+
+<!-- Generated nightly by .github/workflows/snake.yml (Platane/snk) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img alt="github contribution grid snake animation" src="assets/snake.svg" />
+</picture>
+
 <!-- stuff to add later maybe the streak and then the trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Edwin-metcalf&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
