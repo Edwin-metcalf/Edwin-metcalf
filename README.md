@@ -1,21 +1,32 @@
+<h1 align="center">Edwin Metcalf</h1>
+
 <p align="center">
-  <img src="assets/header.svg" alt="Edwin Metcalf — Software | Games | CS & History" width="100%"/>
+  <a href="https://github.com/Edwin-metcalf/MetCode">
+    <img src="assets/metcode.gif" alt="MetCode" width="600">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Software+Engineer;Systems+Programming;Games+%C2%B7+Outdoors+%C2%B7+History;CS+%26+History+%40+Vassar+College" alt="Typing intro: Software Engineer, Systems Programming, Games · Outdoors · History, CS & History @ Vassar College"/>
+  Software Engineer | Systems · Local AI · Agentic Assistants · Eval | <a href="https://edwinmetcalf.com">edwinmetcalf.com</a>
 </p>
-
 <hr>
 
 <p align="center">
-  Hello, I am a software engineer with a background in systems programming, networking, security, and full-stack development.
-  I recently graduated from Vassar College as a double major in Computer Science and History. I also completed additional course work at UC Berkeley. I am always looking to learn new things and become a better software engineer. I am also interested in video games, sports and the outdoors.
+  Hey! I'm a software engineer who enjoys building and optimized intersting things(currently MetCode)! I have
+  worked systems projects including compilers, networking, and security. However now I am focused on MetCode and 
+  how to optimize Agentic assistants. A big part of this is evaluation and to understand evaluating agentic agents
+  I also spent time building an evaluation harness for robot policies.
+</p>
+<p align="center">
+  I studied Computer Science and History at Vassar College, with additional coursework at UC Berkeley. Outside of
+  the programming world, I'm into video games, sports, and the outdoors I love to backpack and am always planning
+  my next trip.
+
 </p>
 
 <p align="center">
   <a href="https://www.edwinmetcalf.com/">
-      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio_Website-purple?style=for-the-badge&logo=link&logoColor=white" alt="My Portflio Website badge"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio_Website-purple?style=for-the-badge&logo=link&logoColor=white" alt="My Portfolio Website badge"/>
   </a>
   <a href="https://www.linkedin.com/in/edwin-metcalf-78427b29a">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=person-add&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,21 +34,46 @@
   <a href="mailto:winmetcalf1@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="assets/resume.pdf">
+    <img src="https://custom-icon-badges.demolab.com/badge/Resume-grey?style=for-the-badge&logo=file&logoColor=white" alt="Resume Badge"/>
+  </a>
 </p>
 
 ## Featured Projects
 
+### [MetCode](https://github.com/Edwin-metcalf/MetCode)
+Local command-line AI coding agent, optimized for small models and budget hardware, and fully offline.  
+`Go` · `Ollama`
+
 ### [Personal Website](https://www.edwinmetcalf.com/)
 My live portfolio and home base on the web — built and deployed with Svelte, TypeScript, Go, PostgreSQL, and Heroku.
+Try the clash royale matchup generator [here!](https://www.edwinmetcalf.com/games/game-stats/clash-royale/matchup-generator)
 
-### Compiler
-Built a compiler that performs parsing, type checking, optimization, and generates RISC-V assembly.
+### [IsaacSim Robot Project](https://github.com/Edwin-metcalf/IsaacSim-Robot-Project)
+Closed-loop evaluation framework for Vision Language Models on spatial reasoning and robotic pick-and-place. 
+Evaluated LeRobot policies, diffusion and VQ-BeT, on PushT task.
+`NVIDIA Isaac Sim` · `Vision Language Models` · `LeRobot policies`
 
-### Secure File Sharing Software
-Implemented encrypted file storage and sharing using AES-CTR, RSA signatures, HMACs, and key derivation.
+### Systems Work
+- **Compiler:** parsing, type checking, optimization, and RISC-V assembly generation.
+- **Secure File Sharing:** encrypted storage and sharing with AES-CTR, RSA signatures, HMACs, and key derivation.
+- **BitTorrent Client:** peer-to-peer client in C using UDP sockets, concurrency, and sliding-window reliability.
 
-### BitTorrent Client
-Created a peer-to-peer file sharing client in C using UDP sockets, concurrency, and sliding-window reliability.
+
+<!-- will eventually add this stuff once I have the map generator done 
+### 🏔️ Field Log
+
+A log of the trails I've been lucky enough to walk.
+
+| Trip | Year | Highlight |
+|---|---:|---|
+| **Pacific Crest Trail** — Sonora Pass → Tuolumne Meadows | 2026 | Father–son trip |
+| **Mt. Shasta** — Hotlum Glacier Route | 2026 | — |
+| **Wind River High Route** — Hay Pass → Indian Pass | 2026 | Loop of DDD |
+| **Mt. Snowdon**, Wales | 2024 | Highest point in Wales |
+| **Mt. Tioga** | 2023 | Very wet — caught in Hurricane Hilary |
+| **Mt. Baker** | 2019 | At camp |
+-->
 
 ### 🧰 Languages and Tools
 <p align="center">
@@ -60,11 +96,15 @@ Created a peer-to-peer file sharing client in C using UDP sockets, concurrency, 
   <br clear="left"/>
 </p>
 
+ <!-- Temporarily commented out pretty generic idk  
 ### 💻 GitHub Stats
 <p align="center">
+  <!-- Temporarily commented out
   <img src="https://github-readme-stats.vercel.app/api?username=Edwin-metcalf&show_icons=true&count_private=true&theme=transparent&title_color=22C55E&icon_color=4ADE80&text_color=9CA3AF&hide_border=true" alt="Edwin-Metcalf's GitHub stats"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-metcalf&layout=compact&theme=transparent&title_color=22C55E&icon_color=4ADE80&text_color=9CA3AF&hide_border=true" alt="Top Languages"/>
 </p>
+-->
 
 ### 🐍 Contribution Snake
 
