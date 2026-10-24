@@ -4,7 +4,7 @@ name: snake
 # The generated files land in assets/ and are embedded in the README.
 on:
   schedule:
-    - cron: "0 0 * * *" # daily at 00:00 UTC
+    - cron: "0 0 * * 0" # on Sunday's at 00:00 UTC
   workflow_dispatch: # also allows a manual "Run workflow" from the Actions tab
 
 permissions:
