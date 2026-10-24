@@ -1,18 +1,32 @@
 <h1 align="center">Edwin Metcalf</h1>
 
 <p align="center">
-  Software | Games | CS & History | <a href="https://edwinmetcalf.com">edwinmetcalf.com </a>
+  <a href="https://github.com/Edwin-metcalf/MetCode">
+    <img src="assets/metcode.gif" alt="MetCode" width="600">
+  </a>
+</p>
+
+<p align="center">
+  Software Engineer | Systems · Local AI · Agentic Assistants · Eval | <a href="https://edwinmetcalf.com">edwinmetcalf.com</a>
 </p>
 <hr>
-<p align ="center">
-Hello, I am a software engineer with a background in systems programming, networking, security, and full-stack development.
-I recently graduated from Vassar College as a double major in Computer science and History. I also completed additional course work at UC Berkeley. I am always looking to learn new things and become a better software engineer. I am also interested in video games, sports and the outdoors.
+
+<p align="center">
+  Hey! I'm a software engineer who enjoys building and optimized intersting things(currently MetCode)! I have
+  worked systems projects including compilers, networking, and security. However now I am focused on MetCode and 
+  how to optimize Agentic assistants. A big part of this is evaluation and to understand evaluating agentic agents
+  I also spent time building an evaluation harness for robot policies.
 </p>
-<!-- add a current projects and then add a link to your profile website when it is done -->
+<p align="center">
+  I studied Computer Science and History at Vassar College, with additional coursework at UC Berkeley. Outside of
+  the programming world, I'm into video games, sports, and the outdoors I love to backpack and am always planning
+  my next trip.
+
+</p>
 
 <p align="center">
   <a href="https://www.edwinmetcalf.com/">
-      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio_Website-purple?style=for-the-badge&logo=link&logoColor=white" alt="My Portflio Website badge"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio_Website-purple?style=for-the-badge&logo=link&logoColor=white" alt="My Portfolio Website badge"/>
   </a>
   <a href="https://www.linkedin.com/in/edwin-metcalf-78427b29a">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=person-add&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,21 +34,46 @@ I recently graduated from Vassar College as a double major in Computer science a
   <a href="mailto:winmetcalf1@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="assets/resume.pdf">
+    <img src="https://custom-icon-badges.demolab.com/badge/Resume-grey?style=for-the-badge&logo=file&logoColor=white" alt="Resume Badge"/>
+  </a>
+</p>
 
 ## Featured Projects
 
-### Compiler
-Built a compiler that performs parsing, type checking, optimization, and generates RISC-V assembly.
+### [MetCode](https://github.com/Edwin-metcalf/MetCode)
+Local command-line AI coding agent, optimized for small models and budget hardware, and fully offline.  
+`Go` · `Ollama`
 
-### Secure File Sharing Software
-Implemented encrypted file storage and sharing using AES-CTR, RSA signatures, HMACs, and key derivation.
+### [Personal Website](https://www.edwinmetcalf.com/)
+My live portfolio and home base on the web — built and deployed with Svelte, TypeScript, Go, PostgreSQL, and Heroku.
+Try the clash royale matchup generator [here!](https://www.edwinmetcalf.com/games/game-stats/clash-royale/matchup-generator)
 
-### BitTorrent Client
-Created a peer-to-peer file sharing client in C using UDP sockets, concurrency, and sliding-window reliability.
+### [IsaacSim Robot Project](https://github.com/Edwin-metcalf/IsaacSim-Robot-Project)
+Closed-loop evaluation framework for Vision Language Models on spatial reasoning and robotic pick-and-place. 
+Evaluated LeRobot policies, diffusion and VQ-BeT, on PushT task.
+`NVIDIA Isaac Sim` · `Vision Language Models` · `LeRobot policies`
 
-### Personal Website
-Built and deployed a full-stack portfolio using Svelte, TypeScript, Go, PostgreSQL, and Heroku.
+### Systems Work
+- **Compiler:** parsing, type checking, optimization, and RISC-V assembly generation.
+- **Secure File Sharing:** encrypted storage and sharing with AES-CTR, RSA signatures, HMACs, and key derivation.
+- **BitTorrent Client:** peer-to-peer client in C using UDP sockets, concurrency, and sliding-window reliability.
 
+
+<!-- will eventually add this stuff once I have the map generator done 
+### 🏔️ Field Log
+
+A log of the trails I've been lucky enough to walk.
+
+| Trip | Year | Highlight |
+|---|---:|---|
+| **Pacific Crest Trail** — Sonora Pass → Tuolumne Meadows | 2026 | Father–son trip |
+| **Mt. Shasta** — Hotlum Glacier Route | 2026 | — |
+| **Wind River High Route** — Hay Pass → Indian Pass | 2026 | Loop of DDD |
+| **Mt. Snowdon**, Wales | 2024 | Highest point in Wales |
+| **Mt. Tioga** | 2023 | Very wet — caught in Hurricane Hilary |
+| **Mt. Baker** | 2019 | At camp |
+-->
 
 ### 🧰 Languages and Tools
 <p align="center">
@@ -57,24 +96,15 @@ Built and deployed a full-stack portfolio using Svelte, TypeScript, Go, PostgreS
   <br clear="left"/>
 </p>
 
-<!-- 
-these are currently down
-<h3>💻 GitHub Profile Stats</h3>
-
-   <!-- https://github.com/anuraghazra/github-readme-stats -- >
-
+ <!-- Temporarily commented out pretty generic idk  
+### 💻 GitHub Stats
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Edwin-metcalf&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-metcalf&layout=compact&theme=radical" />
+  <!-- Temporarily commented out
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin-metcalf&show_icons=true&count_private=true&theme=transparent&title_color=22C55E&icon_color=4ADE80&text_color=9CA3AF&hide_border=true" alt="Edwin-Metcalf's GitHub stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-metcalf&layout=compact&theme=transparent&title_color=22C55E&icon_color=4ADE80&text_color=9CA3AF&hide_border=true" alt="Top Languages"/>
 </p>
 -->
-
-<!-- gonna test with these down for a little while
-<h3>🧙‍♂️LeetCode stats</h3>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/winmet?theme=nord&font=Roboto&ext=activity) -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=Edwin-metcalf&color=blue)
 
 ### 🐍 Contribution Snake
 
@@ -85,23 +115,6 @@ these are currently down
   <img alt="github contribution grid snake animation" src="assets/snake.svg" />
 </picture>
 
-<!-- stuff to add later maybe the streak and then the trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edwin-metcalf&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Edwin-metcalf&theme=radical&hide_border=true)](https://git.io/streak-stats)
-=
--->
-<!--
-**Edwin-metcalf/Edwin-metcalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Edwin-metcalf&color=blue" alt="Profile views"/>
+</p>
