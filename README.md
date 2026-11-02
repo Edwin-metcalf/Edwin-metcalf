@@ -42,8 +42,11 @@
 ## Featured Projects
 
 ### [MetCode](https://github.com/Edwin-metcalf/MetCode)
-Local command-line AI coding agent, optimized for small models and budget hardware, and fully offline.  
+Local command-line AI coding agent, optimized for small models and budget hardware, and fully offline.
 `Go` · `Ollama`
+
+Featured in the XERJ Corpus Hub!
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Edwin-metcalf/badge.svg)](https://hub.xerj.org/contributors/Edwin-metcalf)
 
 ### [Personal Website](https://www.edwinmetcalf.com/)
 My live portfolio and home base on the web — built and deployed with Svelte, TypeScript, Go, PostgreSQL, and Heroku.
